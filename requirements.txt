@@ -1,12 +1,12 @@
 altair
-mplfinace
+mplfinance
 numpy
 pandas
 pandas-datareader
-pillow
+Pillow
 plotly
 scikit-learn
 scipy
 sklearn
 streamlit
-yfiance
+yfinance
